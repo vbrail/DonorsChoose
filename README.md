@@ -7,7 +7,7 @@ A good solution will enable DonorsChoose.org to build targeted email campaigns r
 
 >1. Goal: Predict weather the project submited will be approved or not, 1-approved 0-not approved
 >2. Type: Binary Classification
->3. Metrics: AUC score, Confusion
+>3. Metrics: AUC score, Confusion matrix
 
 ### Few points About Dataset
 * Project.csv
