@@ -5,9 +5,9 @@
 DonorsChoose.org has funded over 1.1 million classroom requests through the support of 3 million donors, the majority of whom were making their first-ever donation to a public school. If DonorsChoose.org can motivate even a fraction of those donors to make another donation, that could have a huge impact on the number of classroom requests fulfilled.
 A good solution will enable DonorsChoose.org to build targeted email campaigns recommending specific classroom requests to prior donors. Part of the challenge is to assess the needs of the organization, uncover insights from the data available, and build the right solution for this problem.
 
->Goal: Predict weather the project submited will be approved or not, 1-approved 0-not approved
->Type: Binary Classification
->Metrics: AUC score, Confusion
+>1. Goal: Predict weather the project submited will be approved or not, 1-approved 0-not approved
+>2. Type: Binary Classification
+>3. Metrics: AUC score, Confusion
 
 ### Few points About Dataset
 * Project.csv
